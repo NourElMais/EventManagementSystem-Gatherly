@@ -131,5 +131,3 @@ Refer to the files in `backend/routes/` for complete request/response payloads.
 1. Create a feature branch per user group (Hosts/Team Leaders, Admin, Clients) as previously assigned.
 2. Maintain lint/test discipline before PRs.
 3. Document new env vars, routes, or shared components in this README so onboarding stays simple.
-
-Happy building! 🎉
